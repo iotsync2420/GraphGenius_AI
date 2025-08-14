@@ -1,45 +1,26 @@
+📊 Graph Genius AI
 
+Graph Genius AI is a smart, interactive data analysis tool that transforms your CSV files into instant insights and visualizations. Designed for analysts, students, and businesses, it makes exploring datasets effortless with just a few clicks.
 
-An AI-powered, interactive data analysis dashboard that turns your CSV data into beautiful, insightful visualizations instantly. Just upload your .csv file, and Graph Genius AI will analyze it, display a quick data preview, and generate interactive charts — no coding required.
+✨ Features
 
+📂 CSV Upload – Quickly load datasets for instant analysis.
 
-🚀FEATURES:
+👀 Data Preview – View the first few rows of your dataset instantly.
 
-•	CSV Upload Support – Import any dataset in .csv format.
+📊 Auto Visualizations – Generate bar, scatter, line, and pie charts automatically.
 
-•	Data Preview – Instantly view the first few rows of your dataset.
+📈 Multi-Chart Support – Explore trends, patterns, and distributions visually.
 
-•	Automatic Graph Generation
+⚡ Fast & Interactive – Real-time visualization updates with minimal effort.
 
-•	Bar Chart / Histogram for numeric columns.
+🎯 Applications
 
-•	Scatter Plot with selectable X and Y axes.
+📊 Exploratory Data Analysis (EDA) for data science projects.
 
-•	Line Chart for time series or numeric trends.
+💼 Business Dashboards to track KPIs and metrics.
 
-•	Pie Chart for categorical data distributions.
+🎓 Education – Learn and teach data visualization concepts.
 
-•	Interactive Controls – Choose columns dynamically for different chart types.
+📑 Reports & Presentations – Create instant visual summaries.
 
-•	AI-Ready Architecture – Easily extendable to use LangGraph & LangChain for AI-driven data insights.
-
-💡APPLICATIONS:
-
-•	Quick EDA (Exploratory Data Analysis) without writing Python code.
-
-•	Business reports & performance tracking dashboards.
-
-•	Data science learning tool for beginners to visualize datasets.
-
-•	Rapid prototyping of analytics apps for hackathons & projects.
-
-🛠TECH STACK
-Frontend/UI – Streamlit (for interactive web-based dashboard)
-
-Backend Processing – Python (pandas, matplotlib)
-
-AI Agent Framework (Optional) – LangGraph, LangChain, OpenAI API
-
-Visualization Libraries – Matplotlib, Streamlit built-in charts
-
-Data Handling – Pandas
