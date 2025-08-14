@@ -1,26 +1,40 @@
-📊 Graph Genius AI
+**📊 Graph Genius AI**
 
-Graph Genius AI is a smart, interactive data analysis tool that transforms your CSV files into instant insights and visualizations. Designed for analysts, students, and businesses, it makes exploring datasets effortless with just a few clicks.
+An AI-powered data analysis and visualization tool built with Streamlit and LangChain.
+All you need is to upload your .csv file and have a beautiful data insight through related graphs , charts and also a query bot is there to resolve all your data related queries!
 
-✨ Features
+## <u>Features</u>
 
-📂 CSV Upload – Quickly load datasets for instant analysis.
 
-👀 Data Preview – View the first few rows of your dataset instantly.
+📂 CSV Upload – Import datasets instantly.
 
-📊 Auto Visualizations – Generate bar, scatter, line, and pie charts automatically.
+🔍 Data Preview – View top rows and column details.
 
-📈 Multi-Chart Support – Explore trends, patterns, and distributions visually.
+📈 Dynamic Charts – Generate Bar, Line, Scatter, and Pie charts.
 
-⚡ Fast & Interactive – Real-time visualization updates with minimal effort.
+🤖 AI Insights – Ask AI questions about your data.
 
-🎯 Applications
+📊 Auto-Analysis – Identify trends, anomalies, and correlations.
 
-📊 Exploratory Data Analysis (EDA) for data science projects.
+## <u>🚀Applications</u>
 
-💼 Business Dashboards to track KPIs and metrics.
+Business Data Dashboards 📊
 
-🎓 Education – Learn and teach data visualization concepts.
+Market Trend Analysis 📈
 
-📑 Reports & Presentations – Create instant visual summaries.
+Academic Research 📚
 
+Startup Data Insights 💡
+
+Financial & Sales Reports 💵
+
+## <u>🛠 Tech Stack</u>
+
+
+| Technology       | Purpose                       |
+|------------------|-------------------------------|
+| **Python**       | Core programming language     |
+| **Streamlit**    | Interactive web app framework |
+| **Pandas**       | Data manipulation & analysis  |
+| **Matplotlib**   | Data visualization            |
+| **Plotly**       | Interactive charts & graphs   |
